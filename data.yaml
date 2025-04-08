@@ -1,0 +1,17 @@
+# dental_yolo_dataset/data.yaml
+path: ..  # dataset root dir
+train: dataset/imgs/train  # train images
+val: dataset/imgs/val  # val images
+train_labels: labels/train/
+val_labels: labels/val/ # optional test images
+
+# Number of classes (32 teeth)
+nc: 32
+
+# Class names (tooth numbers 1-32)
+names: [
+    '0',1', '2', '3', '4', '5', '6', '7', '8',
+    '9', '10', '11', '12', '13', '14', '15', '16',
+    '17', '18', '19', '20', '21', '22', '23', '24',
+    '25', '26', '27', '28', '29', '30', '31'
+]

@@ -103,6 +103,7 @@ result.save("inpainted_xray.png")
    ![missing_tooth_14_mask](https://github.com/user-attachments/assets/c477b102-5a3b-4b77-8daf-751ab34a4d50)
 
 4. Stable Diffusion Inpainted Result
+
     ![inpainted_xray](https://github.com/user-attachments/assets/5f10886e-df5b-4dba-9be0-c8180fa7fef8)
 
 ---

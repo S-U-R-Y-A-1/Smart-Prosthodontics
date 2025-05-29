@@ -1,16 +1,14 @@
 # Smart-Prosthodontics
 
-Here's a polished and professional GitHub `README.md` file based on the content of your project document **"DEEPTEETH: AI-Powered Dental X-Ray Analysis and Reconstruction"**:
 
 ---
 
-# 🦷 DeepTeeth: AI-Powered Dental X-Ray Analysis & Reconstruction
 
 > An advanced deep learning pipeline to automatically detect and reconstruct missing teeth using YOLOv11 and generative inpainting with Stable Diffusion.
 
 ## 📌 Overview
 
-**DeepTeeth** is an AI-powered dental imaging tool that performs:
+**Smart-Prosthodontics** is an AI-powered dental imaging tool that performs:
 
 * Automated **tooth detection** using YOLOv11
 * **Inpainting of missing teeth** with Stable Diffusion fine-tuned for medical X-rays
@@ -41,7 +39,6 @@ Built with **Python**, **PyTorch**, **OpenCV**, and GPU acceleration, DeepTeeth 
 6. Produce output-ready diagnostic X-rays
 ```
 
-![Workflow Diagram](./assets/workflow.png)
 
 ---
 

@@ -3,9 +3,6 @@
 
 ---
 
-
-> An advanced deep learning pipeline to automatically detect and reconstruct missing teeth using YOLOv11 and generative inpainting with Stable Diffusion.
-
 ## 📌 Overview
 
 **Smart-Prosthodontics** is an AI-powered dental imaging tool that performs:
@@ -115,8 +112,7 @@ result.save("inpainted_xray.png")
 
 * 🎓 **Institution**: Coimbatore Institute of Technology
 * 🧑‍💻 **Author**: Surya S (71762134050)
-* 📅 **Batch**: 2021–2026 | Semester: VIII
-* 🧪 **Lab**: 19MAMEL07 – Generative AI Lab
+* 📅 **Batch**: 2021–2026 
 
 ---
 

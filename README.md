@@ -91,11 +91,17 @@ result.save("inpainted_xray.png")
 ## 🖼️ Outputs
 
 1. Original X-ray Image
+
  ![495](https://github.com/user-attachments/assets/3c78d17a-5e58-4030-bc16-8a3d86a0742b)
+ 
 2. YOLOv11 Detection
+   
     ![yolo_identified](https://github.com/user-attachments/assets/dc9b4e7a-ed4a-46cb-a7d0-3bccf9e5aec2)
+
 3. Tooth Mask Region
+   
    ![missing_tooth_14_mask](https://github.com/user-attachments/assets/c477b102-5a3b-4b77-8daf-751ab34a4d50)
+
 4. Stable Diffusion Inpainted Result
     ![inpainted_xray](https://github.com/user-attachments/assets/5f10886e-df5b-4dba-9be0-c8180fa7fef8)
 

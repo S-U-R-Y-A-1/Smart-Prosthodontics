@@ -124,12 +124,3 @@ result.save("inpainted_xray.png")
 * 🧑‍💻 **Author**: Surya S (71762134050)
 * 📅 **Batch**: 2021–2026 
 
----
-
-## 📎 License
-
-This project is for academic and research purposes only. Please consult the author before commercial use.
-
----
-
-Would you like me to export this as a `README.md` file or include image placeholders for visuals?
